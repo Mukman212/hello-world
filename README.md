@@ -1,4 +1,2 @@
 # hello-world
-another one
-
-but of course
+another one, but of course.
